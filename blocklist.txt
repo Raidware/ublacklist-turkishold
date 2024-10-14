@@ -1,6 +1,6 @@
 *://www.ensonhaber.com/*
 *://www.gzt.com/*
-*://yeniakit.com.tr/*
+*://www.yeniakit.com.tr/*
 *://www.trthaber.com/*
 *://www.ahaber.com.tr/*
 *://www.malatyaguncel.com/*
@@ -38,7 +38,7 @@
 *://islamianaliz.com/*
 *://www.saltokunur.com/*
 *://tvnet.com.tr/*
-*://haber7.com/*
+*://www.haber7.com/*
 *://zspor.com.tr/*
 *://www.zraporu.com/*
 *://www.cins.com.tr/*
