@@ -35,5 +35,5 @@
 *://bianet.org/*
 *://beykozguncel.com/*
 *://www.istiklal.com.tr/*
-*://www.floryagazetesi.com/*
 *://www.haksozhaber.net/*
+/floryagazatesi.com/
