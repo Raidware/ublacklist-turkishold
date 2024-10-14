@@ -18,6 +18,7 @@
 *://www.aksam.com.tr/*
 *://www.gunes.com/*
 *://www.haber7.com/*
+*://video.haber7.com/*
 *://www.atv.com.tr/*
 *://www.posta.com.tr/*
 *://www.dirilispostasi.com/*
