@@ -32,3 +32,7 @@
 *://www.saltokunur.com/*
 *://tvnet.com.tr/*
 *://www.haber7.com/*
+*://bianet.org/*
+*://beykozguncel.com/*
+*://www.istiklal.com.tr/*
+*://www.haksozhaber.net/*
