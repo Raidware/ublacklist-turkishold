@@ -3,7 +3,6 @@
 *://www.trthaber.com/*
 *://www.ahaber.com.tr/*
 *://www.malatyaguncel.com/*
-*://www.sabah.com.tr/*
 *://boykothareketi.com/*
 *://www.boykot.co/*
 *://boykotdedektifi.org/*
@@ -46,4 +45,5 @@
 *://www.karar.com/*
 /\.yeniakit\./
 /\.haber7\./
+/\.sabah\./
 *://www.haksozhaber.net/*
