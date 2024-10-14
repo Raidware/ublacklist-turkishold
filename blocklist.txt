@@ -12,6 +12,7 @@
 *://bdsturkiye.org/*
 *://www.diyanet.gov.tr/*
 *://www.turkiyegazetesi.com.tr/*
+*://www.floryagazetesi.com/*
 *://www.takvim.com.tr/*
 *://www.milliyet.com.tr/*
 *://www.hurriyet.com.tr/*
