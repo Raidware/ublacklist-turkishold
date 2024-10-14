@@ -31,5 +31,4 @@
 *://www.tgrthaber.com/*
 *://albayrakmedya.com/*
 *://www.saltokunur.com/*
-*://www.tvnet.com.tr/*
 *://tvnet.com.tr/*
