@@ -1,4 +1,4 @@
-# ublacklist-tr
+# ublacklist-turkish
 
 [uBlacklist](https://github.com/iorate/uBlacklist/) için engelleme listesi; Google, Bing, Brave, DuckDuckGo, Ecosia, Kagi, Qwant, SearX, Startpage.com, Yahoo! JAPAN, Yandex.
 
