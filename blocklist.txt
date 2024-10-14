@@ -38,6 +38,9 @@
 *://www.saltokunur.com/*
 *://tvnet.com.tr/*
 *://www.haber7.com/*
+*://zspor.com.tr/*
+*://www.zraporu.com/*
+*://www.cins.com.tr/*
 *://bianet.org/*
 *://beykozguncel.com/*
 *://www.istiklal.com.tr/*
