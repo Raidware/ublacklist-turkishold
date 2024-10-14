@@ -35,3 +35,4 @@
 *://m.haber7.com/*
 *://video.haber7.com/*
 *://m.haber7.com/*
+*://spor.haber7.com/*
