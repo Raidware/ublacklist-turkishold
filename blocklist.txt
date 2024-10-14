@@ -5,6 +5,14 @@
 /\.malatyaguncel\./
 /\.melahim\./
 /\.boykot\./
+*://boykothareketi.com/*
+*://boykotdedektifi.org/*
+*://boycottlist.me/*
+*://bdsturkiye.org/*
+*://www.boykotyolu.com.tr/*
+*://melahim.com/*
+*://gencmuslumanlar.com/*
+*://boykotrehberi.com/*
 /\.yenisafak\./
 /\.bdsturkiye\./
 /\.diyanet\./
