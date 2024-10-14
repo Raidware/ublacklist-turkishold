@@ -15,7 +15,6 @@
 *://boykotrehberi.com/*
 *://bilinclituketim.com/*
 *://bianet.org/*
-/\.diyanet\./
 /\.yenisafak\./
 /\.bdsturkiye\./
 /\.turkiyegazetesi\./
