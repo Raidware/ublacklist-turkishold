@@ -24,7 +24,10 @@
 *://www.filistin.org/*
 *://www.habervakti.com/*
 *://dogruhaber.com.tr/*
+*://www.konhaber.com/*
+*://www.superhaber.com/*
 *://www.habervitrini.com/*
+*://borsaseans.com/*
 *://www.61saat.com/*
 *://habernida.com/*
 *://www.haberler.com/*
