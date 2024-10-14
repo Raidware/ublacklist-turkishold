@@ -3,6 +3,10 @@
 *://www.yeniakit.com.tr/*
 *://www.trthaber.com/*
 *://www.ahaber.com.tr/*
+*://video.haber7.com/*
+*://m.haber7.com/*
+*://m.yeniakit.com.tr/*
+*://www.malatyaguncel.com/*
 *://www.sabah.com.tr/*
 *://boykothareketi.com/*
 *://www.boykot.co/*
