@@ -1,0 +1,2 @@
+/ahaber.com.tr/
+/ahaber\.(com.tr|net.tr|web.tr|com|net|org|tv|biz)/
