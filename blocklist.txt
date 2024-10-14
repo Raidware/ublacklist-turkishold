@@ -31,6 +31,7 @@
 *://www.malatyatime.com/*
 *://www.tgrthaber.com/*
 *://albayrakmedya.com/*
+*://islamianaliz.com/*
 *://www.saltokunur.com/*
 *://tvnet.com.tr/*
 *://www.haber7.com/*
