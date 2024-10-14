@@ -3,8 +3,11 @@
 /\.trthaber\./
 /\.ahaber\./
 /\.malatyaguncel\./
-/\.boykothareketi\./
+/\.boykotyolu\./
+/\.melahim\./
+/\.boycottlist\./
 /\.boykot\./
+/\.boykothareketi\./
 /\.boykotdedektifi\./
 /\.yenisafak\./
 /\.boykotrehberi\./
