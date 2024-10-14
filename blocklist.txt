@@ -32,3 +32,4 @@
 *://albayrakmedya.com/*
 *://www.saltokunur.com/*
 *://www.tvnet.com.tr/*
+*://http.tvnet.com.tr/*
