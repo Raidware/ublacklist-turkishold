@@ -3,14 +3,9 @@
 /\.trthaber\./
 /\.ahaber\./
 /\.malatyaguncel\./
-/\.boykotyolu\./
 /\.melahim\./
-/\.boycottlist\./
 /\.boykot\./
-/\.boykothareketi\./
-/\.boykotdedektifi\./
 /\.yenisafak\./
-/\.boykotrehberi\./
 /\.bdsturkiye\./
 /\.diyanet\./
 /\.turkiyegazetesi\./
