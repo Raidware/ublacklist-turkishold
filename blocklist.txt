@@ -36,4 +36,5 @@
 *://bianet.org/*
 *://beykozguncel.com/*
 *://www.istiklal.com.tr/*
+*://www.karar.com/*
 *://www.haksozhaber.net/*
