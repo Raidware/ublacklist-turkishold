@@ -13,9 +13,11 @@
 *://melahim.com/*
 *://gencmuslumanlar.com/*
 *://boykotrehberi.com/*
+*://bilinclituketim.com/*
+*://bianet.org/*
+*://diyanet.gov.tr/*
 /\.yenisafak\./
 /\.bdsturkiye\./
-/\.diyanet\./
 /\.turkiyegazetesi\./
 /\.floryagazetesi\./
 /\.takvim\./
@@ -45,7 +47,6 @@
 /\.zspor\./
 /\.zraporu\./
 /\.cins\./
-/\.bianet\./
 /\.beykozguncel\./
 /\.istiklal\./
 /\.karar\./
