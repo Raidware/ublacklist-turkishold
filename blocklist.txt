@@ -45,5 +45,6 @@
 /\.karar\./
 /\.yeniakit\./
 /\.haber7\./
+/\.aspor\./
 /\.sabah\./
 /\.haksozhaber\./
