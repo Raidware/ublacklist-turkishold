@@ -31,5 +31,4 @@
 *://albayrakmedya.com/*
 *://www.saltokunur.com/*
 *://tvnet.com.tr/*
-*://www.haber7.com/*
-*://video.haber7.com/*
+*://haber7.com/*
