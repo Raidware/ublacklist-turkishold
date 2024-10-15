@@ -7,6 +7,7 @@
 /\.boykot\./
 *://boykothareketi.com/*
 *://boykotdedektifi.org/*
+*://www.kanald.com.tr/*
 *://boycottlist.me/*
 *://bdsturkiye.org/*
 *://www.boykotyolu.com.tr/*
