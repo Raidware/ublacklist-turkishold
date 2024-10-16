@@ -27,11 +27,11 @@
 /\.gunes\./
 /\.atv\./
 /\.mirahaber\./
+/\.dogruhaber\./
 /\.posta\./
 /\.dirilispostasi\./
 /\.filistin\./
 /\.habervakti\./
-/\.dogruhaber\./
 /\.konhaber\./
 /\.superhaber\./
 /\.habervitrini\./
