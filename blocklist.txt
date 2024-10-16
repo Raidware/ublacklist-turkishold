@@ -40,7 +40,6 @@
 /\.haberler\./
 /\.malatyatime\./
 /\.tgrthaber\./
-/\.albayrakmedya\./
 /\.islamianaliz\./
 /\.saltokunur\./
 /\.tvnet\./
@@ -102,6 +101,7 @@
 *://edirnejethaber.com/*
 *://www.yenialanya.com/*
 *://yenisokegazetesi.com/*
+*://albayrakmedya.com/*
 *://www.memurlar.net/*
 *://www.mackolik.com/*
 *://www.ntvspor.net/*
