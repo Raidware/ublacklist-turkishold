@@ -55,6 +55,7 @@
 /\.aspor\./
 /\.sabah\./
 /\.gazetevatan\./
+/\.haber24\./
 /\.haksozhaber\./
 *://www.aydinlik.com.tr/*
 *://www.birgun.net/*
@@ -63,7 +64,6 @@
 *://www.fanatik.com.tr/*
 *://www.fotomac.com.tr/*
 *://www.fotospor.com/*
-*://www.haberler.com/*
 *://www.haberturk.com/*
 *://www.karar.com/*
 *://www.medyaradar.com/*
@@ -79,7 +79,6 @@
 *://www2.odatv.com/*
 *://www.ntv.com.tr/*
 *://www.sondakika.com/*
-*://bigpara.hurriyet.com.tr/*
 *://onedio.com/*
 *://finans.mynet.com/*
 *://odatv4.com/*
@@ -100,9 +99,7 @@
 *://www.iha.com.tr/*
 *://www.ulusal.com.tr/*
 *://www.konhaber.com/*
-*://www.hurriyet.com.tr/*
 *://edirnejethaber.com/*
-*://tele1.com.tr/*
 *://www.yenialanya.com/*
 *://yenisokegazetesi.com/*
 *://www.memurlar.net/*
@@ -123,6 +120,5 @@
 *://www.msn.com/*
 *://serbestiyet.com/*
 *://www.gercekgundem.com/*
-*://www.haber24.com.tr/*
 *://www.apara.com.tr/*
 *://www.yesilgiresun.com.tr/*
