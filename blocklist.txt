@@ -113,6 +113,7 @@
 *://www.haberay.com/*
 *://www.sahibinden.com/*
 *://yeniyasamgazetesi5.com/*
+*://www.ilkhaber-gazetesi.com/*
 *://dogruhaber.com.tr/*
 *://gazette.com.tr/*
 *://www.arabam.com/*
