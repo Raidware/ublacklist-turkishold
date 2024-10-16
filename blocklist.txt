@@ -46,7 +46,6 @@
 /\.zspor\./
 /\.zraporu\./
 /\.cins\./
-/\.beykozguncel\./
 /\.istiklal\./
 /\.karar\./
 /\.yeniakit\./
@@ -75,6 +74,7 @@
 *://www.turkiyenewspaper.com/*
 *://www.yenicaggazetesi.com.tr/*
 *://www.cnnturk.com/*
+*://beykozguncel.com/*
 *://www2.odatv.com/*
 *://www.ntv.com.tr/*
 *://www.sondakika.com/*
