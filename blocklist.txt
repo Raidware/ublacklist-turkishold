@@ -114,6 +114,7 @@
 *://www.sahibinden.com/*
 *://yeniyasamgazetesi5.com/*
 *://dogruhaber.com.tr/*
+*://gazette.com.tr/*
 *://www.arabam.com/*
 *://www.ekonomim.com/*
 *://artigercek.com/*
