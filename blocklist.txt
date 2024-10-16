@@ -102,6 +102,7 @@
 *://www.yenialanya.com/*
 *://yenisokegazetesi.com/*
 *://albayrakmedya.com/*
+*://www.albayrak.com.tr/*
 *://www.memurlar.net/*
 *://www.mackolik.com/*
 *://www.ntvspor.net/*
