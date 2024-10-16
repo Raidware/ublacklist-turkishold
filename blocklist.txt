@@ -26,6 +26,7 @@
 /\.aksam\./
 /\.gunes\./
 /\.atv\./
+/\.mirahaber\./
 /\.posta\./
 /\.dirilispostasi\./
 /\.filistin\./
@@ -118,7 +119,6 @@
 *://artigercek.com/*
 *://yenigungazete.com/*
 *://www.odatv.com/*
-*://www.mirahaber.com/*
 *://www.bursadabiz.com/*
 *://www.msn.com/*
 *://beykozguncel.com/*
