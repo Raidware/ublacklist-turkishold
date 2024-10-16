@@ -106,6 +106,8 @@
 *://www.memurlar.net/*
 *://www.mackolik.com/*
 *://www.ntvspor.net/*
+*://batmanrehbergazetesi.com/*
+*://microfon.co/*
 *://beinsports.com.tr/*
 *://medyascope.tv/*
 *://www.diyanethaber.com.tr/*
