@@ -27,7 +27,6 @@
 /\.gunes\./
 /\.atv\./
 /\.mirahaber\./
-/\.dogruhaber\./
 /\.posta\./
 /\.dirilispostasi\./
 /\.filistin\./
@@ -114,6 +113,7 @@
 *://www.haberay.com/*
 *://www.sahibinden.com/*
 *://yeniyasamgazetesi5.com/*
+*://dogruhaber.com.tr/*
 *://www.arabam.com/*
 *://www.ekonomim.com/*
 *://artigercek.com/*
