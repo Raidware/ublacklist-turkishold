@@ -74,7 +74,6 @@
 *://www.turkiyenewspaper.com/*
 *://www.yenicaggazetesi.com.tr/*
 *://www.cnnturk.com/*
-*://beykozguncel.com/*
 *://www2.odatv.com/*
 *://www.ntv.com.tr/*
 *://www.sondakika.com/*
@@ -121,6 +120,7 @@
 *://www.odatv.com/*
 *://www.bursadabiz.com/*
 *://www.msn.com/*
+*://beykozguncel.com/*
 *://serbestiyet.com/*
 *://www.gercekgundem.com/*
 *://www.apara.com.tr/*
