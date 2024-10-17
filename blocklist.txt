@@ -66,6 +66,7 @@
 *://www.karar.com/*
 *://www.medyaradar.com/*
 *://www.milligazete.com.tr/*
+*://pirimedya.com/*
 *://www.posta.com.tr/*
 *://www.sozcu.com.tr/*
 *://www.sporx.com/*
