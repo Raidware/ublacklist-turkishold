@@ -76,6 +76,7 @@
 *://www.cnnturk.com/*
 *://www2.odatv.com/*
 *://www.ntv.com.tr/*
+*://teyit.org/*
 *://www.sondakika.com/*
 *://onedio.com/*
 *://finans.mynet.com/*
