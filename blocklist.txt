@@ -131,6 +131,12 @@
 *://www.sonmuhur.com/*
 *://serbestiyet.com/*
 *://habernida.com/*
+*://rizede-teknoloji.com.tr/*
+*://www.milatgazetesi.com/*
+*://www.urfahabermerkezi.com/*
+*://oyunhileleri.com.tr/*
+*://osmaniyede-oyun.com.tr/*
+*://www.dokuz8haber.net/*
 *://www.gercekgundem.com/*
 *://www.apara.com.tr/*
 *://www.yesilgiresun.com.tr/*
