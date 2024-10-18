@@ -127,6 +127,7 @@
 *://www.msn.com/*
 *://beykozguncel.com/*
 *://www.antephaberleri.com/*
+*://www.sonmuhur.com/*
 *://serbestiyet.com/*
 *://habernida.com/*
 *://www.gercekgundem.com/*
