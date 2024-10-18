@@ -126,6 +126,7 @@
 *://www.bursadabiz.com/*
 *://www.msn.com/*
 *://beykozguncel.com/*
+*://www.antephaberleri.com/*
 *://serbestiyet.com/*
 *://habernida.com/*
 *://www.gercekgundem.com/*
