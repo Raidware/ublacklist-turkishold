@@ -41,6 +41,7 @@
 /\.malatyatime\./
 /\.tgrthaber\./
 /\.islamianaliz\./
+/\.haberturk\./
 /\.saltokunur\./
 /\.tvnet\./
 /\.zspor\./
@@ -62,7 +63,6 @@
 *://www.fanatik.com.tr/*
 *://www.fotomac.com.tr/*
 *://www.fotospor.com/*
-*://www.haberturk.com/*
 *://www.karar.com/*
 *://www.medyaradar.com/*
 *://www.milligazete.com.tr/*
