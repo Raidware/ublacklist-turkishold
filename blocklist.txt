@@ -127,6 +127,7 @@
 *://www.msn.com/*
 *://beykozguncel.com/*
 *://serbestiyet.com/*
+*://habernida.com/*
 *://www.gercekgundem.com/*
 *://www.apara.com.tr/*
 *://www.yesilgiresun.com.tr/*
