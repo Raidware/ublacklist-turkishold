@@ -142,6 +142,10 @@
 *://amidahaber.com/*
 *://rasthaber.com/*
 *://www.malatyanethaber.com.tr/*
+*://www.midyatgazete.com/*
+*://www.dogununnabzi.com/*
+*://www.tv5.com.tr/*
+*://www.liderhaber.com.tr/*
 *://tr.mehrnews.com/*
 *://www.fokusplus.com/*
 *://www.yeniasir.com.tr/*
