@@ -160,6 +160,7 @@
 *://yerkoyhabergazetesi.com/*
 *://www.tasnimnews.com/*
 *://www.konyayenigun.com/*
+*://www.ulketv.com.tr/*
 *://www.pusulahaber.com.tr/*
 *://www.yirmidort.tv/*
 *://gumushanedenhaber.com/*
