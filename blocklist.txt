@@ -49,6 +49,7 @@
 /\.zraporu\./
 /\.cins\./
 /\.istiklal\./
+/\.onedio\./
 /\.karar\./
 /\.yeniakit\./
 /\.haber7\./
@@ -79,7 +80,6 @@
 *://www.ntv.com.tr/*
 *://teyit.org/*
 *://www.sondakika.com/*
-*://onedio.com/*
 *://finans.mynet.com/*
 *://odatv4.com/*
 *://www.acunn.com/*
