@@ -4,6 +4,7 @@
 /\.ahaber\./
 /\.malatyaguncel\./
 /\.melahim\./
+/\.diyanet\./
 /\.boykot\./
 *://boykothareketi.com/*
 *://boykotdedektifi.org/*
@@ -91,6 +92,13 @@
 *://www.superhaber.tv/*
 *://m.bloomberght.com/*
 *://ajansspor.com/*
+*://portalforum.net/*
+*://www.yurtgazetesi.com.tr/*
+*://turkiyeninsesigazetesi.com/*
+*://www.kapsamhaber.com/*
+*://www.turkishdailynews.net/*
+*://borcka-haber.com.tr/*
+*://habersprak.com.tr/*
 *://haberglobal.com.tr/*
 *://www.evrensel.net/*
 *://www.aktifhaber.com/*
