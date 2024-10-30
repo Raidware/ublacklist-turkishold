@@ -157,6 +157,11 @@
 *://tr.mehrnews.com/*
 *://www.fokusplus.com/*
 *://www.yeniasir.com.tr/*
+*://arguvan-siyaset-haberleri.com.tr/*
+*://camardi-haberler.com.tr/*
+*://www.ajanstv.com.tr/*
+*://www.frmtr.com/*
+*://www.bolutakip.com/*
 *://www.akittv.com.tr/*
 *://www.hur24.com/*
 *://yuzyilgazetesi.com.tr/*
