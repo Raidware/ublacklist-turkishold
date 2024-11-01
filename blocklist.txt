@@ -166,6 +166,17 @@
 *://www.hur24.com/*
 *://yuzyilgazetesi.com.tr/*
 *://adiyamanbasin.com/*
+*://www.turkuvazmedyagrubu.com.tr/*
+*://www.adanahabercilik.com/*
+*://adanahaberleri01.com.tr/*
+*://manisahabercilik.com.tr/*
+*://forumexe.com.tr/*
+*://www.samimihaber.com/*
+*://www.edetv.com.tr/*
+*://www.muhabir.com.tr/*
+*://www.kinikgazetesi.com/*
+*://www.trhaber.com/*
+*://www.turkiye.press/*
 *://www.yesilafsin.com/*
 *://www.duzcepostasi.com/*
 *://sakaryayenigun.com.tr/*
