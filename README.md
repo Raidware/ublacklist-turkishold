@@ -6,5 +6,5 @@ Yalan, yanıltıcı, çöp vb sonuçları engeller.
 
 Engelleme listesine uBlackList üzerinden abone olmak için:
 ```
-https://raw.githubusercontent.com/Raidware/ublacklist-turkish/master/blocklist.txt
+https://raw.githubusercontent.com/Raidware/ublacklist-turkishold/master/blocklist.txt
 ```
